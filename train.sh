@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=7 python Train_clothing1m.py --data_path /home/lisen/data/clothing1m
